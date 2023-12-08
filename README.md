@@ -29,4 +29,4 @@ Algorithms used are:
 
 5.Decision Tree Classifier
 
-Finally a predicted data file is created that contains predictions made by the model with passengerid and survived columns
+Finally a predicted data file is created that contains predictions made by the model with PassengerId and Survived columns
