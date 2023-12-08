@@ -1,7 +1,7 @@
 # TITANIC-CLASSIFICATION
 In this project, I delved into the world of data analysis and machine learning to tackle the challenging task of predicting passenger survival on the Titanic. Using data-driven insights and predictive modeling, developed a robust classification system.
 
-##Project Overview:
+## Project Overview:
 📊 Data Analysis: I explored the dataset, uncovering valuable insights about passenger demographics, ticket classes, and more.
 
 🤖 Machine Learning: Using machine learning algorithms, I built a predictive model to classify passengers' survival. It's incredible how data can help us understand historical events!
